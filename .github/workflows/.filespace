@@ -51,8 +51,8 @@
 .__file__{
     .pass
     for * (
-        get.objet: python,
-        get.libray: math
+        get.objet: javascript,
+        get.libray: node
         get
     )
 }
